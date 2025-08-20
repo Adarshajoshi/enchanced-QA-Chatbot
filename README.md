@@ -3,13 +3,19 @@
 A lightweight Streamlit chatbot using OpenAI GPT models and LangChain. Ask questions, get instant AI-powered answers, and customize responses with adjustable settings.
 
 ✨ Features
-🔑 Enter your OpenAI API key securely
+
+🔑 Enter your OpenAI API key securely 
+
 🤖 Supports gpt-4o, gpt-4-turbo, gpt-4
+
 🎛️ Adjust temperature & max tokens
+
 📊 LangSmith tracing for monitoring
+
 ⚡ Simple Streamlit UI
 
 🚀 Quick Start
+
 git clone https://github.com/Adarshajoshi/enhanced-QA-chatbot.git
 cd enhanced-qa-chatbot
 pip install -r requirements.txt

@@ -17,25 +17,35 @@ A lightweight Streamlit chatbot using OpenAI GPT models and LangChain. Ask quest
 🚀 Quick Start
 
 git clone https://github.com/Adarshajoshi/enhanced-QA-chatbot.git
+
 cd enhanced-qa-chatbot
+
 pip install -r requirements.txt
 
 
 Create a .env file:
+
 LANGCHAIN_API_KEY=your_langsmith_api_key
 
 
 Run the app:
+
 streamlit run main.py
 
 📖 Usage
+
 Open the app in your browser
+
 Enter API key in the sidebar
+
 Select model + adjust settings
+
 Ask questions & get answers 🎉
 
 🛠️ Built With
 
 Streamlit
+
 LangChain
+
 OpenAI
